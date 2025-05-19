@@ -27,7 +27,7 @@ In 1828, Charles Telfair wrote to Hooker about a plant specimen discovered by Bo
 
 ### European Fascination
 In 1829, Hooker included an entry on the Poinciana regia in the magazine. The entry was accompanied by Joseph Swan’s stunning engraving of Poinciana regia flowers based on a “magnificent drawing” by Bojer.[^8] In his descriptions, Hooker mentioned that they sometimes published entries on beautiful and rare plants that the English had no hope of cultivating successfully in the country; but this, he claimed, was not the case with the Poinciana regia. He would have waited for the plant to blossom before publishing an entry on it, if it “were not the subject of such great interest”.[^9] He expressed hope “of its blossoming in this country” very soon, thanks to the attempt of Robert Barclay (a wealthy businessman and amateur botanist) to raise saplings of the seeds sent by Telfair. Barclay’s vast garden Bury Hill had been the site of many exotic plants taking root in Britain.[^10]  
-<param ve-iframe src="https://archive.org/details/mobot31753002721295/page/2884/mode/2up?view=theater"> 
+<param ve-iframe src="https://archive.org/details/mobot31753002721295/page/2884/mode/2up?view=theater" label="The engraving of the Gulmohar from Curtis’s Magazine."> 
 
 ### References
 [^1]: Plants of the World Online. “Delonix Regia (Bojer Ex Hook.) Raf. | Plants of the World Online | Kew Science,” n.d. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:491231-1.
