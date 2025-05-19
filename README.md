@@ -32,6 +32,8 @@ In 1829, Hooker included an entry on the Poinciana regia in the magazine. The en
 The hope for the tree’s naturalization on British shores, however, did not bear fruit, as Barclay passed away in 1931, and with his death the monetary support for the tree’s growth in the British Isles ended.[^11] In 1833, Telfair and his wife Anna died in Madagascar, both by sudden and strange illness.[^12] 
 <param ve-image url="https://dorkingmuseum.org.uk/wp-content/uploads/2012/07/K247-copy.jpg" title="The gardens at Bury Hill were used as a site for botanical transplantation of newly discovered species through the support of its owner, Robert Barclay.">
 
+European fascination with the plant continued to grow. In the French herbal _Histoire naturelle des végétaux_(1834), French botanist Édouard Spach wrote of the “magnifique” _Poinciana regia_ and noted that English horticultural establishments possessed its saplings.[^13] In 1837, the tree was included in _Paxton’s Magazine of Botany_’s register of flowering plants, which praised it as a splendid plant that “ought to be in every collection.”[^14] Bojer’s French manuscript about the flora of Mauritius and the surrounding islands, _Hortus Mauritianus_, was published in 1837, with an entry on the Poinciana regia, fittingly called the Flamboyant in French.[^15] By then, however, the tree was already well known across Europe.
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.COI00001161">
 
 
 ### References
@@ -47,5 +49,9 @@ The hope for the tree’s naturalization on British shores, however, did not bea
 [^10]: Hooker, William Jackson, Sir. “The Late Mr. Barclay”. Botanical Miscellany, Vol. 2, 1831: 123. https://www.biodiversitylibrary.org/page/5520513
 [^11]: Hooker, William Jackson, Sir. “The Late Mr. Barclay,” Botanical Miscellany, Vol. 2, 1831: 122. https://www.biodiversitylibrary.org/page/5520513.
 [^12]: Bojer, Wenceslaus. Letter to Sir William Jackson Hooker from Port Louis, Mauritius. Library and Archives at Royal Botanic Gardens, Kew, Directors' Correspondence 58/8, July 27, 1833. 
+[^13]: Spach, Édouard. Histoire naturelle des végétaux Phanérogames Phanérogames,1834: 105–106. https://www.biodiversitylibrary.org/item/97949#page/119/mode/1up.
+[^14]: Paxton, Joseph, Sir. Paxton's Magazine of Botany (London; Orr and Smith [etc.]), Vol. 3, 1837: 87. https://www.biodiversitylibrary.org/page/48265893.
+[15]: Bojer, W. Hortus Mauritianus :ou enumeration des plantes, exotiques et indigenes, qui croissent a l’Ile Maurice, disposees d’apres la methode naturelle (Maurice: Imprimerie d’Aimé Mamarot et Compagnie, 1837). https://www.biodiversitylibrary.org/page/6208650.
+
 
 
