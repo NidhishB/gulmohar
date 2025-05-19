@@ -29,6 +29,11 @@ In 1828, Charles Telfair wrote to Hooker about a plant specimen discovered by Bo
 In 1829, Hooker included an entry on the Poinciana regia in the magazine. The entry was accompanied by Joseph Swan’s stunning engraving of Poinciana regia flowers based on a “magnificent drawing” by Bojer.[^8] In his descriptions, Hooker mentioned that they sometimes published entries on beautiful and rare plants that the English had no hope of cultivating successfully in the country; but this, he claimed, was not the case with the Poinciana regia. He would have waited for the plant to blossom before publishing an entry on it, if it “were not the subject of such great interest”.[^9] He expressed hope “of its blossoming in this country” very soon, thanks to the attempt of Robert Barclay (a wealthy businessman and amateur botanist) to raise saplings of the seeds sent by Telfair. Barclay’s vast garden Bury Hill had been the site of many exotic plants taking root in Britain.[^10]  
 <param ve-iframe src="https://archive.org/details/mobot31753002721295/page/2884/mode/2up?view=theater" label="The engraving of the Gulmohar from Curtis’s Magazine."> 
 
+The hope for the tree’s naturalization on British shores, however, did not bear fruit, as Barclay died in 1931, and with his death the monetary support for the tree’s growth in the British Isles ended.[^11] In 1833, Telfair and his wife died in Madagascar, both by sudden and strange illness.[^12] 
+<param ve-image url="https://dorkingmuseum.org.uk/wp-content/uploads/2012/07/K247-copy.jpg" title="The gardens at Bury Hill were used as a site for botanical transplantation of newly discovered species through the support of its owner, Robert Barclay.">
+
+
+
 ### References
 [^1]: Plants of the World Online. “Delonix Regia (Bojer Ex Hook.) Raf. | Plants of the World Online | Kew Science,” n.d. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:491231-1.
 [^2]: Wharton, Thomas. Letter to Sir William Jackson Hooker from Bath, Jamaica. Library and Archives at Royal Botanic Gardens, Kew, Directors' Correspondence 71/418, April 9, 1856. https://plants.jstor.org/stable/10.5555/al.ap.visual.kmdc1611; Singapore Agri-Horticultural Society. Appendix A to Annual Report of the Singapore Agri-Horticultural Society (Singapore: Straits Times Press, 1866.) https://www.biodiversitylibrary.org/bibliography/135433.
@@ -40,6 +45,7 @@ In 1829, Hooker included an entry on the Poinciana regia in the magazine. The en
 [^8]: Curtis, Williams and Hooker, William Jackson, Sir. “Poinciana Regia. Superb Poinciana,” Curtis’s Botanical Magazine, Vol. 56, 1829: 2884. https://www.biodiversitylibrary.org/item/14216#page/28/mode/1up.
 [^9]: Curtis, Williams and Sir William Jackson Hooker. https://www.biodiversitylibrary.org/item/14216#page/28/mode/1up.
 [^10]: Hooker, William Jackson, Sir. “The Late Mr. Barclay”. Botanical Miscellany, Vol. 2, 1831: 123. https://www.biodiversitylibrary.org/page/5520513
-
+[^11]: Hooker, William Jackson, Sir. “The Late Mr. Barclay,” Botanical Miscellany, Vol. 2, 1831: 122. https://www.biodiversitylibrary.org/page/5520513.
+[^12] Bojer, Wenceslaus. Letter to Sir William Jackson Hooker from Port Louis, Mauritius. Library and Archives at Royal Botanic Gardens, Kew, Directors' Correspondence 58/8, July 27, 1833. 
 
 
