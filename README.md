@@ -51,7 +51,7 @@ European fascination with the plant continued to grow. In the French herbal _His
 [^12]: Bojer, Wenceslaus. Letter to Sir William Jackson Hooker from Port Louis, Mauritius. Library and Archives at Royal Botanic Gardens, Kew, Directors' Correspondence 58/8, July 27, 1833. 
 [^13]: Spach, Édouard. Histoire naturelle des végétaux Phanérogames Phanérogames,1834: 105–106. https://www.biodiversitylibrary.org/item/97949#page/119/mode/1up.
 [^14]: Paxton, Joseph, Sir. Paxton's Magazine of Botany (London; Orr and Smith [etc.]), Vol. 3, 1837: 87. https://www.biodiversitylibrary.org/page/48265893.
-[15]: Bojer, W. Hortus Mauritianus :ou enumeration des plantes, exotiques et indigenes, qui croissent a l’Ile Maurice, disposees d’apres la methode naturelle (Maurice: Imprimerie d’Aimé Mamarot et Compagnie, 1837). https://www.biodiversitylibrary.org/page/6208650.
+[^15]: Bojer, W. Hortus Mauritianus :ou enumeration des plantes, exotiques et indigenes, qui croissent a l’Ile Maurice, disposees d’apres la methode naturelle (Maurice: Imprimerie d’Aimé Mamarot et Compagnie, 1837). https://www.biodiversitylibrary.org/page/6208650.
 
 
 
