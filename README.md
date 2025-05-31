@@ -87,11 +87,12 @@ Desire, temporality, memory, and longing come together in the symbolic power of 
 <param ve-iframe src="https://www.youtube.com/embed/YGZ9rz1MNbE?si=XFuZomDBpXwagecx&amp;start=74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 In another movie from the 1970s, the devotional _Narad Leela_, the Gulmohar is evoked to represent the unrequited desire of an Apsara—a divine nymph of heaven—for the celibate Narad, the messenger of the Gods. They meet when Narad is deep in ascetic meditation. Indra, the King of Heaven, fearing that Narad is gaining too much divine power, instructs Kaamdev, the god of desire, to end Narad’s meditation. Kaamdev thus sends the Apsara to tempt Narad out of his asceticism. The plan of the gods, however, backfires: the Apsara falls in love with Narad  instead. “I came to color your body in my shade / But mine paled; I have become your shade,”[^49] she sings in the song Gulmohar Ke Lal Lal Phulwa Khil Gaye, dancing around the meditating Narad. Though the visuals do not feature the Gulmohar, the tree is immediately conjured in the lyrics: “The red buds of the Gulmohar have blossomed, my love / With red on its cheeks, the pink season has come / Leaving me this gift, childhood has gone away.”  
-<param ve-iframe src="https://www.dailymotion.com/video/x8mtotz?start=28"
+<param ve-iframe src="https://geo.dailymotion.com/player.html?video=x8mtotz;start=30"
     style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
     allowfullscreen
     title="Dailymotion Video Player"
-    allow="web-share">
+    allow="web-share"
+       start = "30">
 
 
 ### References
