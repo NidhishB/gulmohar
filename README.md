@@ -41,7 +41,7 @@ Towards the end of the decade, in 1838, the Agricultural and Horticultural Socie
 
 The Gulmohar snuck into the list of ornamental plants to be introduced to Bombay, during the first wave of the Society’s botanical experiment in 1838.[^19] Within three years, William Griffith, an East India Company botanist, was growing the tree in the Calcutta Botanic Garden [^20]. Just two years later, Griffith sent a letter to his peer Robert Wight, the secretary of the botanical gardens in Madras, sharing “plenty of seed” of the “beautiful tree” that was _Poinciana regia_.[^21] In the late 1840s, Scottish surgeon Alexander Gibson, superintendent of the botanic garden at Dapuri, commissioned an Indo-Portuguese artist to document the Gulmohar, among other plants, in a distinct example of a company painting, with close-up views that evince an intimate engagement with the plant.[^22] 
 <param ve-map center="Q668" zoom="7" show-labels marker-type="circle" radius="4" title="Bombay, Calcutta, and Madras, the centers of British power. The Gulmohar first arrived in Bombay and then made its way to the coastal edges of the subcontinent through colonial botanists."
-       show-labels="true"
+       show-labels="true">
 
 At the same time, their individual botanical ambitions and ideologies often clashed with those of other botanists practicing in India, producing a rich tapestry of personal motivations in the exchange of botanical material.[^24] Botanical passion and colonial directives thus coincided to see the Gulmohar blossom across gardens in the subcontinent.
 
