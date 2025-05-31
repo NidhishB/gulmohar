@@ -88,6 +88,11 @@ Desire, temporality, memory, and longing come together in the symbolic power of 
 	id="https://youtu.be/Qj3uIJWS_kI?si=_cJr_3lclp38WAnj"
 	title="In the song Gulmohar Gar Tumhara Naam Hota, the tree mediates the desire of the two lovers.">
 
+In another movie from the 1970s, the devotional _Narad Leela_, the Gulmohar is evoked to represent the unrequited desire of an Apsara—a divine nymph of heaven—for the celibate Narad, the messenger of the Gods. They meet when Narad is deep in ascetic meditation. Indra, the King of Heaven, fearing that Narad is gaining too much divine power, instructs Kaamdev, the god of desire, to end Narad’s meditation. Kaamdev thus sends the Apsara to tempt Narad out of his asceticism. The plan of the gods, however, backfires: the Apsara falls in love with Narad  instead. “I came to color your body in my shade / But mine paled; I have become your shade,”[^49] she sings in the song Gulmohar Ke Lal Lal Phulwa Khil Gaye, dancing around the meditating Narad. Though the visuals do not feature the Gulmohar, the tree is immediately conjured in the lyrics: “The red buds of the Gulmohar have blossomed, my love / With red on its cheeks, the pink season has come / Leaving me this gift, childhood has gone away.”  
+<param ve-video
+	id="https://youtu.be/YGZ9rz1MNbE?si=XMcxps1W2552KzsA&t=74"
+	title="In Narad Leela, the Gulmohar stands for the first blossoming of desire.">
+
 
 
 ### References
@@ -139,5 +144,4 @@ Desire, temporality, memory, and longing come together in the symbolic power of 
 [^46]: Thapar, Romila. “The Theory of Aryan Race and India: History and Politics,” Social Scientist 24, no. 1/3 (1996): 3–29. https://doi.org/10.2307/3520116.
 [^47]: Krishnan, Kavita. “Sacred Spaces, Secular Norms and Women’s Rights,” Economic and Political Weekly 41, no. 27/28 (2006): 2969–2971. http://www.jstor.org/stable/4418425
 [^48]: Ramanathan, S. Devata. Prithiva Pictures, 1978, 1:52:08 – 1:55:50. https://youtu.be/VKOKO85aWqM?si=mjMQMRMY4Q32zQFq&t=6728.
-
-
+[^49]: Desai, Dhirubai. Narad Leela. NH Studioz, 1972. 40:00 – 44:50. https://youtu.be/2a0Hd7MG8GM?si=24mDeHu2mAdW5qkh&t=2400.
