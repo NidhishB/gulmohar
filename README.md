@@ -81,6 +81,13 @@ Comparing the spilled blood of the martyrs to red flowers, instead of aesthetici
 Across the border in India, the Gulmohar took on a fascinating role in the caste politics of West Bengal. _The Story of the Arjun and the Krishnachura Tree_ (2014), by poet Mandakranta Sen, places two trees in opposition: the Arjun tree and the Krishnachura.[^45] The Arjun tree is “An Aryan male—a pillar of aristocracy” that all other trees bow down to. The term “Aryan” has a complicated history in India, used by upper-caste communities to uphold racial purity and trace their origin to a common “Indo-European” homeland, and on the other hand employed by progressive anti-caste movements to relegate the upper castes to being ancient invaders of the subcontinent.[^46]  Unlike the Arjun Tree, however, the Krishnachura is decidedly new to the land: its seed comes “from somewhere”—the poem does not bother to dwell on its origins—and eventually blossoms into a beautiful “Santhal girl,” from a tribal community that lies outside of the system of caste. The Arjun tree desires this tree that has “crimson in her hair,” but his desire is rooted in superiority and domination: “Only he could claim beauty so fair,” he thinks, being an Aryan male. The Krishnachura does not relent: “She wasn't drawn to the Aryan male / She was busy making the buds bloom.” The Arjun tree is forced only to gaze, shed his bark, and “accept he cannot win,” for the Krishnachura sheds blood —seemingly referring to menstruation, which cuts against caste-based ideas of purity where menstruation is seen as polluting.[^47]  What emerges is a tale of the introduced species, the Gulmohar, representing a space of beauty and subversion that exists outside of a culture rooted in caste domination.
 <>
 
+### The Gulmohar and Longing 
+
+Desire, temporality, memory, and longing come together in the symbolic power of the Gulmohar in modern India. Turning to film, music, and literature can give a clearer understanding of its influence and associations. “If your name were Gulmohar,” sings the Bollywood hero of the 1978 movie _Devata_ as he presents his lover with a Gulmohar flower, “then making the spring laugh would be my task.”[^48]  Throughout the song, the lovers frolic around the Gulmohar. The camera pans across the tree, taking wide shots of its blossoming canopy, cutting shots of the sighing lovers under its bouncing branches, and focusing on the falling flowers. By the 1970s, the Gulmohar was a common sight in India, and the song uses the tree not only as a lyrical symbol but as a physical, living character that is very much a part of the action and movement on screen. “When the spring comes next time, ask it one small thing,” sings the hero, “without my flower, how could its name be spring?” The heroine sings back with his own words, “If your name were Gulmohar, then making the spring laugh would be my task!”
+<param ve-video
+	id="https://youtu.be/Qj3uIJWS_kI?si=_cJr_3lclp38WAnj&t=22"
+	title="In the song Gulmohar Gar Tumhara Naam Hota, the tree mediates the desire of the two lovers.">
+
 
 
 ### References
@@ -126,11 +133,11 @@ Across the border in India, the Gulmohar took on a fascinating role in the caste
 [^40]: Chakrabarti, Arindam. “The Aesthetics of the Resplendent Sapphire: Erotic Devotion in Rūpa Gosvāmin’s Ujjvalanīlamaṇi,”The Bloomsbury Research Handbook of Indian Aesthetics and the Philosophy of Art (London: Bloomsbury Publishing, 2016), 111. https://doi.org/10.5040/9781474219006.
 [^41]: Venkatestvaran, T. K. "VI. Radha-Krishna Bhajanas of South India: A Phenomenological, Theological, and Philosophical Study," In Krishna, edited by Milton Singer (Honolulu: University of Hawaii Press, 1966), 139–172. https://doi.org/10.1515/9780824885878-008
 [^42]: “The first poem on Ekushey,” The Dhaka Tribune, February 18, 2021. https://www.dhakatribune.com/bangladesh/238883/the-first-poem-on-ekushey.
-[^43] Ileas, Ilu. “The story of the first poem on Ekhushey,” The Business Standard, Bangladesh, February 21, 2022. https://www.tbsnews.net/bangladesh/amar-ekushey/story-first-poem-ekhushey-373867.
-[^44] United Nations. “International Mother Language Day.” Accessed August 20, 2024. https://www.un.org/en/observances/mother-language-day.
-[^45] Sen, Mandakranta. After the Last Kiss. Translated by Arunava Sinha (Gurgaon, India: HarperCollins India, 2014). https://www.poetryinternational.com/en/poets-poems/poems/poem/103-24801_THE-STORY-OF-THE-ARJUN-AND-THE-KRISHNACHURA#.
-[^46] Thapar, Romila. “The Theory of Aryan Race and India: History and Politics,” Social Scientist 24, no. 1/3 (1996): 3–29. https://doi.org/10.2307/3520116.
-[^47] Krishnan, Kavita. “Sacred Spaces, Secular Norms and Women’s Rights,” Economic and Political Weekly 41, no. 27/28 (2006): 2969–2971. http://www.jstor.org/stable/4418425
-
+[^43]: Ileas, Ilu. “The story of the first poem on Ekhushey,” The Business Standard, Bangladesh, February 21, 2022. https://www.tbsnews.net/bangladesh/amar-ekushey/story-first-poem-ekhushey-373867.
+[^44]: United Nations. “International Mother Language Day.” Accessed August 20, 2024. https://www.un.org/en/observances/mother-language-day.
+[^45]: Sen, Mandakranta. After the Last Kiss. Translated by Arunava Sinha (Gurgaon, India: HarperCollins India, 2014). https://www.poetryinternational.com/en/poets-poems/poems/poem/103-24801_THE-STORY-OF-THE-ARJUN-AND-THE-KRISHNACHURA#.
+[^46]: Thapar, Romila. “The Theory of Aryan Race and India: History and Politics,” Social Scientist 24, no. 1/3 (1996): 3–29. https://doi.org/10.2307/3520116.
+[^47]: Krishnan, Kavita. “Sacred Spaces, Secular Norms and Women’s Rights,” Economic and Political Weekly 41, no. 27/28 (2006): 2969–2971. http://www.jstor.org/stable/4418425
+[^48]: Ramanathan, S. Devata. Prithiva Pictures, 1978, 1:52:08 – 1:55:50. https://youtu.be/VKOKO85aWqM?si=mjMQMRMY4Q32zQFq&t=6728.
 
 
