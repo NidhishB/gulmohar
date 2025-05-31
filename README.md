@@ -85,7 +85,7 @@ Across the border in India, the Gulmohar took on a fascinating role in the caste
 
 Desire, temporality, memory, and longing come together in the symbolic power of the Gulmohar in modern India. Turning to film, music, and literature can give a clearer understanding of its influence and associations. “If your name were Gulmohar,” sings the Bollywood hero of the 1978 movie _Devata_ as he presents his lover with a Gulmohar flower, “then making the spring laugh would be my task.”[^48]  Throughout the song, the lovers frolic around the Gulmohar. The camera pans across the tree, taking wide shots of its blossoming canopy, cutting shots of the sighing lovers under its bouncing branches, and focusing on the falling flowers. By the 1970s, the Gulmohar was a common sight in India, and the song uses the tree not only as a lyrical symbol but as a physical, living character that is very much a part of the action and movement on screen. “When the spring comes next time, ask it one small thing,” sings the hero, “without my flower, how could its name be spring?” The heroine sings back with his own words, “If your name were Gulmohar, then making the spring laugh would be my task!”
 <param ve-video
-	id="https://youtu.be/Qj3uIJWS_kI?si=_cJr_3lclp38WAnj&t=22"
+	id="https://youtu.be/Qj3uIJWS_kI?si=_cJr_3lclp38WAnj"
 	title="In the song Gulmohar Gar Tumhara Naam Hota, the tree mediates the desire of the two lovers.">
 
 
