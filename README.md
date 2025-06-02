@@ -85,10 +85,14 @@ After its introduction to India, the Gulmohar spread rapidly. What is more surpr
 <param ve-entity eid="Q170516">
 
 One possible reason for the ease with which the Gulmohar fit into the Indian context is its visual and aesthetic similarity to existing flora. Its vibrant red color matches several flowers, including the Peacock Flower (_Caesalpinia pulcherrima_, known as the _Poinciana pulcherrima_ in the nineteenth century) and the Flame of the Forest (_Butea monosperma_). Native to South America, Peacock Flower had been transplanted to India by the seventeenth century.[^26] In 1839, just as the _Poinciana regia_ was being introduced to the subcontinent, Bombay Government Press published a catalogue of the plants growing in Bombay and its vicinity. It is here that the Peacock Flower, the _Poinciana pulcherrima_, was listed as “Gool Mohur,” and the catalog noted that the plant was “common in every garden.”[^27]  By the time the Gulmohar came to India, then, there was already a plant referred to as Gulmohar.
-<param ve-image url="" label="The Peacock Flower was called the Gulmohar prior to the Delonix regia’s arrival in the subcontinent.">
 <param ve-entity eid="Q1428973">
 <param ve-entity eid="Q942203">
 <param ve-entity eid="Q11000978">
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Caesalpinia_pulcherrima_-_Peacock_Flower_at_Kunnathurpadi_(2).jpg" label="The Peacock Flower was called the Gulmohar prior to the Delonix regia’s arrival in the subcontinent.">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Caesalpinia_pulcherrima_%28%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%9A%E0%A7%82%E0%A6%A1%E0%A6%BC%E0%A6%BE%29.jpg/2560px-Caesalpinia_pulcherrima_%28%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%9A%E0%A7%82%E0%A6%A1%E0%A6%BC%E0%A6%BE%29.jpg" label="The Peacock flower">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poinciana-pulcherrima.png/2560px-Poinciana-pulcherrima.png" label="An illustration of the Peacock flower from Familiar Indian Flowers (1878) by Lena Lowis" copyright="public domain">
+
+
 
 The plants’ similarity lies in their flowers’ red color. The primary difference between them is morphological: the _Poinciana regia_ is a deciduous tree that grows to a height of ten meters, while the _Poinciana pulcherrima_ is a shrub that grows to about three meters.[^28]  While they were placed in the same genus when the Poinciana regia was discovered, by the latter half of the nineteenth century _Poinciana pulcherrima_ had become _Caesalpinia pulcherrima_, and the _Poinciana regia_ had long been renamed _Delonix regia_. In the latter case, however, the old name stuck: the Gulmohar is still commonly called the Poinciana in Australia and the Western Hemisphere. 
 <param ve-entity eid="Q1131316">
