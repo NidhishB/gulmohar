@@ -41,7 +41,7 @@ The Gulmohar snuck into the list of ornamental plants to be introduced to Bombay
 <param ve-entity eid="Q1348">
 <param ve-entity eid="Q1156">
 <param ve-entity eid="Q1352">
-<param ve-map center="Q668" zoom="4" marker-type="circle" radius="4" title="Bombay, Calcutta, and Madras (renamed Mumbai, Kolkata, and Chennai respectively after independence), the centers of British power. The Gulmohar first arrived in Bombay and then made its way to the coastal edges of the subcontinent through colonial botanists."
+<param ve-map center="Q668" zoom="4" marker-type="circle" radius="4" title="Bombay, Calcutta, and Madras (renamed Mumbai, Kolkata, and Chennai respectively, as non-anglicised names in Independent India), the centers of British power. The Gulmohar first arrived in Bombay and then made its way to the coastal edges of the subcontinent through colonial botanists."
        show-labels="true">
 
 At the same time, their individual botanical ambitions and ideologies often clashed with those of other botanists practicing in India, producing a rich tapestry of personal motivations in the exchange of botanical material.[^24] Botanical passion and colonial directives thus coincided to see the Gulmohar blossom across gardens in the subcontinent. <span data-mouseover-map-flyto="Q1156">Bombay</span>
