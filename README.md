@@ -77,7 +77,7 @@ Under the Krishnachura trees,
                  to shed tears.
 I have not come, where endless patches of blood
 Glow like so many fiery flowers, to weep.”[^42]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Rickshaw_in_Dhaka_1960s.jpg?20200609055226" label="A Gulmohar in Dhaka in the 1960s. The tree is a common sight in Dhaka, where it is called Krishnachura in Bengali.]"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Rickshaw_in_Dhaka_1960s.jpg?20200609055226" label="A Gulmohar in Dhaka in the 1960s. The tree is a common sight in Dhaka, where it is called Krishnachura in Bengali.">
 
 Comparing the spilled blood of the martyrs to red flowers, instead of aestheticizing the brutal violence, feeds into the poem’s deferral of anger, which eventually reaches its fever pitch with the demand to hang the perpetrators. The poem was banned, and copies of it were seized by the newly created Pakistani government. There was an arrest warrant for Chowdhury, but he managed to escape. The poem gave birth to new genre of poetry that spoke of the mother tongue and the rage of those denied their language: Ekushey literature.[^43] This sentiment would feed into the war that led to the liberation of Bangladesh as a separate nation in 1971. The International Mother Language Day was set up by UNESCO in 1982, commemorating the Bengali Language protests that began on February 21, 1952.[^44]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/International_Mother_Language_Day_04.jpg" label="A Gathering in Khulna, Bangladesh, celebrating the International Mother Language Day that commemorates the language martyrs of 1952.">
