@@ -3,7 +3,7 @@
 <param ve-config 
        title="The Gulmohar: Becoming Native"
        author="Nidhish Birhade"
-       banner=""
+       banner="https://archive.org/details/mobot31753002721295/page/2884/mode/2up?view=theater"
        layout="vertical">
 
 ### Becoming Native
