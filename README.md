@@ -91,8 +91,8 @@ One possible reason for the ease with which the Gulmohar fit into the Indian con
 <param ve-entity eid="Q11000978">
 
 The plants’ similarity lies in their flowers’ red color. The primary difference between them is morphological: the _Poinciana regia_ is a deciduous tree that grows to a height of ten meters, while the _Poinciana pulcherrima_ is a shrub that grows to about three meters.[^28]  While they were placed in the same genus when the Poinciana regia was discovered, by the latter half of the nineteenth century _Poinciana pulcherrima_ had become _Caesalpinia pulcherrima_, and the _Poinciana regia_ had long been renamed _Delonix regia_. In the latter case, however, the old name stuck: the Gulmohar is still commonly called the Poinciana in Australia and the Western Hemisphere. 
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flower_of_Delonix_regia.jpg" label="While the flowers of the Peacock Flower and the Gulmohar have a similiar colour, the fifth and largest petal of Gulmohar is white." fit="contain">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Caesalpinia_pulcherrima_%28%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%9A%E0%A7%82%E0%A6%A1%E0%A6%BC%E0%A6%BE%29.jpg" fit="contain">
+<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Delonix_regia_%28Gulmohur%29_in_Hyderabad_W_IMG_8165.jpg/960px-Delonix_regia_%28Gulmohur%29_in_Hyderabad_W_IMG_8165.jpg" label="While the flowers of the Peacock Flower and the Gulmohar have a similiar colour, the fifth and largest petal of Gulmohar is white." fit="contain">
+<param ve-compare url="<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Caesalpinia_pulcherrima_001.jpg" label="While the flowers of the Peacock Flower and the Gulmohar have a similiar colour, the fifth and largest petal of Gulmohar is white." fit="contain">" fit="contain">
 <param ve-entity eid="Q1131316">
 <param ve-entity eid="Q34740">
 
