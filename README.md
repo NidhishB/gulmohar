@@ -88,18 +88,15 @@ One possible reason for the ease with which the Gulmohar fit into the Indian con
 <param ve-entity eid="Q1428973">
 <param ve-entity eid="Q942203">
 <param ve-entity eid="Q11000978">
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Caesalpinia_pulcherrima_-_Peacock_Flower_at_Kunnathurpadi_(2).jpg" label="The Peacock Flower was called the Gulmohar prior to the Delonix regia’s arrival in the subcontinent.">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Caesalpinia_pulcherrima_-_Peacock_Flower_at_Kunnathurpadi_%282%29.jpg/2560px-Caesalpinia_pulcherrima_-_Peacock_Flower_at_Kunnathurpadi_%282%29.jpg" label="The Peacock Flower was called the Gulmohar prior to the Delonix regia’s arrival in the subcontinent.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Caesalpinia_pulcherrima_%28%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%9A%E0%A7%82%E0%A6%A1%E0%A6%BC%E0%A6%BE%29.jpg/2560px-Caesalpinia_pulcherrima_%28%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%9A%E0%A7%82%E0%A6%A1%E0%A6%BC%E0%A6%BE%29.jpg" label="The Peacock flower">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poinciana-pulcherrima.png/2560px-Poinciana-pulcherrima.png" label="An illustration of the Peacock flower from Familiar Indian Flowers (1878) by Lena Lowis" copyright="public domain">
-
-
 
 The plants’ similarity lies in their flowers’ red color. The primary difference between them is morphological: the _Poinciana regia_ is a deciduous tree that grows to a height of ten meters, while the _Poinciana pulcherrima_ is a shrub that grows to about three meters.[^28]  While they were placed in the same genus when the Poinciana regia was discovered, by the latter half of the nineteenth century _Poinciana pulcherrima_ had become _Caesalpinia pulcherrima_, and the _Poinciana regia_ had long been renamed _Delonix regia_. In the latter case, however, the old name stuck: the Gulmohar is still commonly called the Poinciana in Australia and the Western Hemisphere. 
 <param ve-entity eid="Q1131316">
 <param ve-entity eid="Q34740">
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Starr-090623-1693-Delonix_regia-flowering_habit-Paani_Mai_Park_Hana-Maui_%2824340315673%29.jpg">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Caesalpinia_pulcherrima_001.jpg">
-
 
 This confusion between the two flowers was common and was a defining feature in the history of their identification—or misidentification. In _A Dictionary of English Names of Plants_ (1884), William Miller listed two binomial names for the Peacock flower: the _Poinciana pulcherrima_ for the common variety and the _Poinciana regia_ for the royal variety.[^29] The distinction of one being royal was repeated in the 1889 _Journal of the Bombay Natural History Society_, in which _Poinciana regia_ referred to the royal gulmohar and the _Poinciana pulcherrima_ to the common one.[^30] Interestingly, when Gulmohar is anglicized, it is often misspelled as “gold mohur,” which was also the name for gold coins issued in British India, as well as during the former Mughal and Maratha empires.[^31] The plant appears several times in George Orwell’s Burmese Days as the “Gold mohur” with “blood-red” flowers, framing the landscape of British Burma.[^32]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/75/India_1835_2_Mohurs.jpg" label="The Gold mohur coin that was issued in British India, as well as during the Mughal and Maratha empires prior to colonization." fit="contain">
