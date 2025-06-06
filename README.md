@@ -32,7 +32,7 @@ Mauritius was a budding center of imperial botanical learning. Its past as a Fre
 <param ve-entity eid="Q472639">
 <param ve-entity eid="Q188617">
 <param ve-entity eid="Q21855250">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isle_of_France%2C_2_December_1810.jpg" fit="contain" title="'The taking of the Isle of France,'. Mauritius was captured by the British in 1810. Prior to the invasion, it was called Isle de France, and French remains a de facto language in the country today." license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isle_of_France%2C_2_December_1810.jpg" fit="contain" title="'The taking of the Isle of France'. Mauritius was captured by the British in 1810. Prior to the invasion, it was called Isle de France, and French remains a de facto language in the country today." license="public domain">
 
 In 1828, Charles Telfair wrote to Hooker about a plant specimen discovered by Bojer that was “worthy of a place” in his works: the _Poinciana regia_ (it would later be renamed _Delonix regia_).[^6] Bojer likely discovered the plant during his second expedition to Madagascar. Following his initial letter, Telfair sent Hooker seeds of the plant and a drawing by Bojer, hoping to get it published in _Curtis’s Botanical Magazine_, for which Hooker was its main editor.[^7]  At the time, the magazine was the largest and most renowned serial publication of its kind. 
 <param ve-iframe src="https://plants.jstor.org/stable/10.5555/al.ap.visual.kdcas1052" label="One of Telfair’s letters to Hooker, introducing the Gulmohar. Letters were the main mode of communication for overseas botanists with the metropole and were transported via ship.">
