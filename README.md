@@ -122,10 +122,10 @@ Though the British left the subcontinent in 1947, they left behind countries dra
 <param ve-entity eid="Q129053">
 
 Seemingly apolitical subjects sometimes become symbols for political transformation. After Independence, East Pakistan—present-day Bangladesh—was grappling with its dual identities of religion and language. Pakistan had declared Urdu and English to be its only official languages—Urdu was spoken widely in Pakistan, but not in East Pakistan, which was Bengali-speaking. Spurred to action, student protests broke out across Dhaka, the capital of East Pakistan, on February 21, 1952, with the police responding with violence. Mahbub ul Alam Chowdhury, one of the students at the protest, wrote the poem, “Kandte ashini – phanshir dabi niye eshechhi” (I have not come to weep, but to demand they be hanged) where the Gulmohar, called the Krishnachura in Bengali, takes on a deeply symbolic role: 
-“I have not come, where they laid down their lives
-Under the Krishnachura trees,
-                 to shed tears.
-I have not come, where endless patches of blood
+“I have not come, where they laid down their lives /
+Under the Krishnachura trees, /
+                 to shed tears. /
+I have not come, where endless patches of blood /
 Glow like so many fiery flowers, to weep.”[^42]
 <param ve-entity eid="Q842931">
 <param ve-entity eid="Q1617">
